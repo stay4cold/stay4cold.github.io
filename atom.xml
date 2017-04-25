@@ -4,9 +4,9 @@
   <subtitle>Evan&#39;s blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-04-25T05:15:52.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://github.com/stay4cold/"/>
+  <updated>2017-04-25T07:26:15.000Z</updated>
+  <id>https://github.com/stay4cold/</id>
   
   <author>
     <name>Evan</name>
@@ -16,9 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="https://github.com/stay4cold/2017/04/25/test/"/>
+    <id>https://github.com/stay4cold/2017/04/25/test/</id>
+    <published>2017-04-25T07:25:32.000Z</published>
+    <updated>2017-04-25T07:26:15.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://github.com/stay4cold/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/04/25/hello-world/"/>
-    <id>http://yoursite.com/2017/04/25/hello-world/</id>
+    <link href="https://github.com/stay4cold/2017/04/25/hello-world/"/>
+    <id>https://github.com/stay4cold/2017/04/25/hello-world/</id>
     <published>2017-04-25T05:15:52.000Z</published>
     <updated>2017-04-25T05:15:52.000Z</updated>
     
