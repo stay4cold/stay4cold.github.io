@@ -4,9 +4,9 @@
   <subtitle>stay cold and keep learning</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/stay4cold/"/>
+  <link href="https://stay4cold.github.io/"/>
   <updated>2018-08-29T08:31:11.576Z</updated>
-  <id>https://github.com/stay4cold/</id>
+  <id>https://stay4cold.github.io/</id>
   
   <author>
     <name>Evan</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>test</title>
-    <link href="https://github.com/stay4cold/2018/08/25/test/"/>
-    <id>https://github.com/stay4cold/2018/08/25/test/</id>
+    <link href="https://stay4cold.github.io/2018/08/25/test/"/>
+    <id>https://stay4cold.github.io/2018/08/25/test/</id>
     <published>2018-08-25T07:25:32.000Z</published>
     <updated>2018-08-29T08:31:11.576Z</updated>
     
@@ -26,10 +26,10 @@
     
     </summary>
     
-      <category term="ios" scheme="https://github.com/stay4cold/categories/ios/"/>
+      <category term="ios" scheme="https://stay4cold.github.io/categories/ios/"/>
     
     
-      <category term="ios" scheme="https://github.com/stay4cold/tags/ios/"/>
+      <category term="ios" scheme="https://stay4cold.github.io/tags/ios/"/>
     
   </entry>
   
