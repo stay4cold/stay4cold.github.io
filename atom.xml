@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://stay4cold.github.io/"/>
-  <updated>2018-08-29T08:31:11.576Z</updated>
+  <updated>2018-08-29T14:12:12.057Z</updated>
   <id>https://stay4cold.github.io/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>strategy</title>
+    <link href="https://stay4cold.github.io/2018/08/29/strategy/"/>
+    <id>https://stay4cold.github.io/2018/08/29/strategy/</id>
+    <published>2018-08-29T14:10:58.000Z</published>
+    <updated>2018-08-29T14:12:12.057Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                   
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
